@@ -1,0 +1,1 @@
+En este repositorio encontraras la construccion de una pequeña aplicacion de IA Generativa basa en en un chatbot de una empresa ficticia donde se aplican tecnicas de knowledge bases y RAG con AWS Bedrock, esta demo fue parte del AWS SUMMIT 2024 Bogotá donde se realizó una ponencia completa sobre el tema.
